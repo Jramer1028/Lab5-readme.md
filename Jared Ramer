@@ -1,0 +1,17 @@
+LUCID CHART
+
+INTRODUCTION INTO NETWORKING
+
+Packet: When a device makes a request over the internet, that request is broken into smaller, and easier to send "packets". The "hub" will then send the packets through the "bridge", and the bridge will bring it to it's requested destination.
+
+Packet-Switching: This is how packets travel the internet. It is that there is no direct path to the place the packet should be, so it is transfered through the routers inbetween the hub and it's destination. With the packets being broken down and each taking a different path, the packets can sometimes end up out of order, and in this case, the receiving device will re organize it to be in order. 
+
+Ip Address: A unique number assigned to every device that is connected to the internet. It can be compared to the adress that every house has, each one is unique and is used to help put a specific location to be found. 
+
+DNS: DNS stands for “domain name system”. This is what gives the IP adress of the device requested. 
+
+Protocol: It's what allows two different computers to comunicate in the same language, even though they might use different languages. 
+
+
+  Networking Hardware
+  

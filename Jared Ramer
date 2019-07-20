@@ -24,4 +24,9 @@ ia: For topologies a "single point failure" is when the topologie is set up in a
 ib: The infastructure topologie is where each wireless device is connected to a wireless access point, which is connected to other wireless access points, which one is connected via cable. A wireless mesh network is where each device is connected to one single wireless acess point.
     I believe that a infastructure topologie is the better network setup. It makes it easier for devices to stay connected.
     
-   
+Network Design-
+ia: My network is a infastructure network, where the router is connected to the switch, which is connected to 2 PCs and 1 wireless access point. 
+The Printer is connected to the PC's, and there is a laptop connected to the wireless access point. 
+
+NSA/CSS
+ia: The NSA keeps the publics information secure, and it also works hard to keep gov't secrets confidential. 

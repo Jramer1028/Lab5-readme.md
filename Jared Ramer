@@ -21,3 +21,7 @@ ib:A router is able to connect and send data to outside networks, while Hubs and
 
   Network Topologies
 ia: For topologies a "single point failure" is when the topologie is set up in a way that if even one point is broken, then the rest of the network fails. Topologies that have a single point of failure are the "Ring topologie", and the "bus topologie"
+ib: The infastructure topologie is where each wireless device is connected to a wireless access point, which is connected to other wireless access points, which one is connected via cable. A wireless mesh network is where each device is connected to one single wireless acess point.
+    I believe that a infastructure topologie is the better network setup. It makes it easier for devices to stay connected.
+    
+   

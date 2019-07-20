@@ -1,6 +1,7 @@
 LUCID CHART
 
 INTRODUCTION INTO NETWORKING
+Data Transmission-
 
 Packet: When a device makes a request over the internet, that request is broken into smaller, and easier to send "packets". The "hub" will then send the packets through the "bridge", and the bridge will bring it to it's requested destination.
 
@@ -14,4 +15,9 @@ Protocol: It's what allows two different computers to comunicate in the same lan
 
 
   Networking Hardware
-  
+ia: A Hub connects all the devices on an internal network, and whenever it recieves data through a port, the hub sends that data to all other ports that are connected. This causes security concerns and it uses up more bandwith than it needs to.
+    While a Swich does the same thing a hub does, but instead of sending the data it recieves to all other connected ports, it knows what the IP addresses are of each device on the internal network, so it is able to send the data to only that device. This saves bandwith and also helps keep the security of the data.
+ib:A router is able to connect and send data to outside networks, while Hubs and Switches are only able to send data through their own internal networks. A router acts as " a gateway" of the network, because it sends information to the Switches and Hubs that can then send that data to the device that requested that data. 
+
+  Network Topologies
+ia: For topologies a "single point failure" is when the topologie is set up in a way that if even one point is broken, then the rest of the network fails. Topologies that have a single point of failure are the "Ring topologie", and the "bus topologie"

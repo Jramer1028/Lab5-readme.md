@@ -32,4 +32,24 @@ NSA/CSS
 ia: The NSA keeps the publics information secure, and it also works hard to keep gov't secrets confidential. 
 
  Cybersecurity and Encryption- 
+ ia: As an Amazon group chat, I need confidentiality because the customer needs to know that no one who shouldn't be reading this will read the conversation. 
+    I would also need integrity, meaning that the information I am giving to the consumer is the truth and that I am being true; if my integrity was bad, then people wouldn't trust what I say.
+    Finally I would need accessability, so I could access information to then pass on to the person I am communicating with via "Amazon.com online chat"
+
+ib: Signing into the "my tri-c space"- you need a username and password, and to convert it to a multi-factor authentication I would have to input the name of my dog.
+  going to an ATM to withdraw money, you need your card and your PIN (personal Identification Number). This already is a multi-factor authentication proccess, but to make it more secure, the person would need to input their favorite food.
+  When getting into your phone, you need to put in some password. This could be turned into a multi-factor authentication by also putting in a fingerprint or saying some phrase.
+  
+ic: 
+-ACL (Access Control List): Pro-"Very simple to understand and maintain" ; Con-"but the main drawback is that each information resource is managed separately, so if a security administrator wanted to add or remove a user to a large set of information resources, it would be difficult for them to preform" The more users, the more difficult it becomes.
+-RBAC (role-based access control): Pro- Easier to manage. The way it works is by classifing each user into a group, and then giving that group access to what they are allowed to access. Thus improving security. 
+
+id: Cypher text is the message when it is encoded. This is after it is sent, but before it is recieved.
+    The public key is the key that the sender used to encode the message, and the private key is the key that the reciever of the message uses to decode the cypherkey.
+    
+ie: We need a public key cryptography to make sure that 2 computers can communicate and keep their information secret. 
+
+Cryptography-
+
+
 

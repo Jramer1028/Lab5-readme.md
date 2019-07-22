@@ -50,6 +50,18 @@ id: Cypher text is the message when it is encoded. This is after it is sent, but
 ie: We need a public key cryptography to make sure that 2 computers can communicate and keep their information secret. 
 
 Cryptography-
+ia: Cryptography is encoding, and decoding messages in order to make sure no outside parties can intercept your private message.
+-The ceasar cypher was when you took the letters of a message and shifted all the letters the same, so that when decrypting, the reciever could shift the letters back and make sense of the message.
+
+ib: I wrote " Cats are just angry and lazy dogs" I shifted all the letters 6 letters over, so now "a" was "g". 
+
+ic: In the Frequency Fingerprint Exploration I typed a big sentance, and it came up that I type the letter "i" more than any other letter. this would work for other languages, because other languages would still have some repetative symbols.
+
+id: A polyalphebatic cypher is one where instead of a shift of letters all being the same, the shift is a code word, where the letters are shifted by the number placement of the letter in the alphabet of the letters of the code word. Making it much more complicated to solve and thus more secure. 
+
+ie: The message I input was "Metallica" and it came out as "etwldalns". The code word was "Rock"
+
+    Brute-Force- This is when someone programms a code to decrypt encrypted messages. 
 
 
 
